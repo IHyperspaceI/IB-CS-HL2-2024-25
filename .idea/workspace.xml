@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f71097cd-1f22-479b-9a79-2b87929d5fd6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IB-CS-HL2-2024-25.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter1/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter1/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter2/StringApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter2/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter2/art/EmptyFrameViewer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter2/art/FaceComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter2/art/FaceViewer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter2/art/RectangleComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter2/art/RectangleViewer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter2/art/ShapeComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter2/art/ShapeViewer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter3/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter3/BankAccountApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter3/BankAccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter3/Clicker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter3/CounterApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter3/draw/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter3/draw/CarComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter3/draw/CarViewer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter4/CashRegister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter4/CashRegisterApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter4/FormatApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter4/InputApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter4/OperatorApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter4/StringApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter4/VolumeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter5/Conditionals.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter5/FloatingPointCompareApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter5/StringApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter5/elevator/ElevatorApp.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2kvX6y4fGf3fMm50yb4545ANDAs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BankAccountApp.executor": "Run",
+    "Application.CarViewer.executor": "Run",
+    "Application.CashRegisterApp.executor": "Run",
+    "Application.CounterApp.executor": "Run",
+    "Application.ElevatorApp.executor": "Run",
+    "Application.EmptyFrameViewer.executor": "Run",
+    "Application.FaceViewer.executor": "Run",
+    "Application.FloatingPointCompareApp.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.InputApp.executor": "Run",
+    "Application.OperatorApp.executor": "Run",
+    "Application.RectangleViewer.executor": "Run",
+    "Application.ShapeViewer.executor": "Run",
+    "Application.StringApp.executor": "Run",
+    "Application.Tree.executor": "Run",
+    "Application.VolumeCalculator.executor": "Run",
+    "Application.hi.executor": "Run",
+    "Application.org.will.chapter5.StringApp.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.BankAccountTest.executor": "Coverage",
+    "JUnit.StringTest.executor": "Coverage",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.will.chapter2.art" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.org.will.chapter5.StringApp">
+    <configuration name="ElevatorApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.will.chapter5.elevator.ElevatorApp" />
+      <module name="IB-CS-HL2-2024-25" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.will.chapter5.elevator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FloatingPointCompareApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.will.chapter5.FloatingPointCompareApp" />
+      <module name="IB-CS-HL2-2024-25" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.will.chapter5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.will.chapter4.StringApp" />
+      <module name="IB-CS-HL2-2024-25" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.will.chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VolumeCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.will.chapter4.VolumeCalculator" />
+      <module name="IB-CS-HL2-2024-25" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.will.chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.will.chapter5.StringApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.will.chapter5.StringApp" />
+      <module name="IB-CS-HL2-2024-25" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.will.chapter5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.org.will.chapter5.StringApp" />
+        <item itemvalue="Application.FloatingPointCompareApp" />
+        <item itemvalue="Application.ElevatorApp" />
+        <item itemvalue="Application.StringApp" />
+        <item itemvalue="Application.VolumeCalculator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f71097cd-1f22-479b-9a79-2b87929d5fd6" name="Changes" comment="" />
+      <created>1724164860385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724164860385</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/IB_CS_HL2_2024_25$StringTest.ic" NAME="StringTest Coverage Results" MODIFIED="1726496148454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.will.Chapter2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/IB_CS_HL2_2024_25$BankAccountTest.ic" NAME="BankAccountTest Coverage Results" MODIFIED="1727793570322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.will.chapter3.*</FILTER>
+    </SUITE>
+  </component>
+</project>
