@@ -5,42 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f71097cd-1f22-479b-9a79-2b87929d5fd6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IB-CS-HL2-2024-25.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter1/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter1/Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter2/StringApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter2/StringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter2/art/EmptyFrameViewer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter2/art/FaceComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter2/art/FaceViewer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter2/art/RectangleComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter2/art/RectangleViewer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter2/art/ShapeComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter2/art/ShapeViewer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter3/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter3/BankAccountApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter3/BankAccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter3/Clicker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter3/CounterApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter3/draw/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter3/draw/CarComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter3/draw/CarViewer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter4/CashRegister.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter4/CashRegisterApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter4/FormatApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter4/InputApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter4/OperatorApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter4/StringApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter4/VolumeCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter5/Conditionals.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter5/FloatingPointCompareApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter5/StringApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter5/elevator/ElevatorApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter5/FilingStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter5/NumberApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter5/TaxReturn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter5/TaxReturnApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter5/Truth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter5/WaterApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/will/chapter5/EarthquakeApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/will/chapter5/EarthquakeApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/will/chapter5/ObjectEqualApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/will/chapter5/ObjectEqualApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/will/chapter5/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/will/chapter5/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/will/chapter5/PersonApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/will/chapter5/PersonApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/will/chapter5/elevator/ElevatorApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/will/chapter5/elevator/ElevatorApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,12 +56,17 @@
     "Application.FloatingPointCompareApp.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.InputApp.executor": "Run",
+    "Application.NumberApp.executor": "Run",
+    "Application.ObjectEqualApp.executor": "Run",
     "Application.OperatorApp.executor": "Run",
+    "Application.PersonApp.executor": "Run",
     "Application.RectangleViewer.executor": "Run",
     "Application.ShapeViewer.executor": "Run",
     "Application.StringApp.executor": "Run",
+    "Application.TaxReturnApp.executor": "Run",
     "Application.Tree.executor": "Run",
     "Application.VolumeCalculator.executor": "Run",
+    "Application.WaterApp.executor": "Run",
     "Application.hi.executor": "Run",
     "Application.org.will.chapter5.StringApp.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
@@ -96,7 +77,7 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
@@ -109,7 +90,7 @@
       <recent name="org.will.chapter2.art" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.org.will.chapter5.StringApp">
+  <component name="RunManager" selected="Application.ElevatorApp">
     <configuration name="ElevatorApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.will.chapter5.elevator.ElevatorApp" />
       <module name="IB-CS-HL2-2024-25" />
@@ -123,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FloatingPointCompareApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.will.chapter5.FloatingPointCompareApp" />
+    <configuration name="NumberApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.will.chapter5.NumberApp" />
       <module name="IB-CS-HL2-2024-25" />
       <extension name="coverage">
         <pattern>
@@ -136,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.will.chapter4.StringApp" />
+    <configuration name="PersonApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.will.chapter5.PersonApp" />
       <module name="IB-CS-HL2-2024-25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.will.chapter4.*" />
+          <option name="PATTERN" value="org.will.chapter5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VolumeCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.will.chapter4.VolumeCalculator" />
+    <configuration name="TaxReturnApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.will.chapter5.TaxReturnApp" />
       <module name="IB-CS-HL2-2024-25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.will.chapter4.*" />
+          <option name="PATTERN" value="org.will.chapter5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,8 +143,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.will.chapter5.StringApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.will.chapter5.StringApp" />
+    <configuration name="WaterApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.will.chapter5.WaterApp" />
       <module name="IB-CS-HL2-2024-25" />
       <extension name="coverage">
         <pattern>
@@ -177,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.org.will.chapter5.StringApp" />
-        <item itemvalue="Application.FloatingPointCompareApp" />
         <item itemvalue="Application.ElevatorApp" />
-        <item itemvalue="Application.StringApp" />
-        <item itemvalue="Application.VolumeCalculator" />
+        <item itemvalue="Application.WaterApp" />
+        <item itemvalue="Application.TaxReturnApp" />
+        <item itemvalue="Application.NumberApp" />
+        <item itemvalue="Application.PersonApp" />
       </list>
     </recent_temporary>
   </component>
