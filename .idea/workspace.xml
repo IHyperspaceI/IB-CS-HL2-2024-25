@@ -5,18 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f71097cd-1f22-479b-9a79-2b87929d5fd6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter5/FilingStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter5/NumberApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter5/TaxReturn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter5/TaxReturnApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter5/Truth.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter5/WaterApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter6/BreakApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter6/ContinueApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter6/CountingMatchesApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter6/Do-While Loop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter6/FindFirstApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter6/SentinelApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter6/SumAndAverageApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter6/ValidationApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter6/While Loop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter6/bank/Investment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter6/bank/InvestmentApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/will/chapter5/EarthquakeApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/will/chapter5/EarthquakeApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/will/chapter5/ObjectEqualApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/will/chapter5/ObjectEqualApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/will/chapter5/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/will/chapter5/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/will/chapter5/PersonApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/will/chapter5/PersonApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/will/chapter5/elevator/ElevatorApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/will/chapter5/elevator/ElevatorApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +26,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="editable-svg" />
         <option value="Class" />
       </list>
     </option>
@@ -47,24 +48,32 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.BankAccountApp.executor": "Run",
+    "Application.BreakApp.executor": "Run",
     "Application.CarViewer.executor": "Run",
     "Application.CashRegisterApp.executor": "Run",
+    "Application.ContinueApp.executor": "Run",
     "Application.CounterApp.executor": "Run",
+    "Application.CountingMatchesApp.executor": "Run",
     "Application.ElevatorApp.executor": "Run",
     "Application.EmptyFrameViewer.executor": "Run",
     "Application.FaceViewer.executor": "Run",
+    "Application.FindFirstApp.executor": "Run",
     "Application.FloatingPointCompareApp.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.InputApp.executor": "Run",
+    "Application.InvestmentApp.executor": "Run",
     "Application.NumberApp.executor": "Run",
     "Application.ObjectEqualApp.executor": "Run",
     "Application.OperatorApp.executor": "Run",
     "Application.PersonApp.executor": "Run",
     "Application.RectangleViewer.executor": "Run",
+    "Application.SentinelApp.executor": "Run",
     "Application.ShapeViewer.executor": "Run",
     "Application.StringApp.executor": "Run",
+    "Application.SumAndAverageApp.executor": "Run",
     "Application.TaxReturnApp.executor": "Run",
     "Application.Tree.executor": "Run",
+    "Application.ValidationApp.executor": "Run",
     "Application.VolumeCalculator.executor": "Run",
     "Application.WaterApp.executor": "Run",
     "Application.hi.executor": "Run",
@@ -90,13 +99,13 @@
       <recent name="org.will.chapter2.art" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ElevatorApp">
-    <configuration name="ElevatorApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.will.chapter5.elevator.ElevatorApp" />
+  <component name="RunManager" selected="Application.FindFirstApp">
+    <configuration name="BreakApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.will.chapter6.BreakApp" />
       <module name="IB-CS-HL2-2024-25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.will.chapter5.elevator.*" />
+          <option name="PATTERN" value="org.will.chapter6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.will.chapter5.NumberApp" />
+    <configuration name="ContinueApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.will.chapter6.ContinueApp" />
       <module name="IB-CS-HL2-2024-25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.will.chapter5.*" />
+          <option name="PATTERN" value="org.will.chapter6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.will.chapter5.PersonApp" />
+    <configuration name="CountingMatchesApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.will.chapter6.CountingMatchesApp" />
       <module name="IB-CS-HL2-2024-25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.will.chapter5.*" />
+          <option name="PATTERN" value="org.will.chapter6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaxReturnApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.will.chapter5.TaxReturnApp" />
+    <configuration name="FindFirstApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.will.chapter6.FindFirstApp" />
       <module name="IB-CS-HL2-2024-25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.will.chapter5.*" />
+          <option name="PATTERN" value="org.will.chapter6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WaterApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.will.chapter5.WaterApp" />
+    <configuration name="SumAndAverageApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.will.chapter6.SumAndAverageApp" />
       <module name="IB-CS-HL2-2024-25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.will.chapter5.*" />
+          <option name="PATTERN" value="org.will.chapter6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ElevatorApp" />
-        <item itemvalue="Application.WaterApp" />
-        <item itemvalue="Application.TaxReturnApp" />
-        <item itemvalue="Application.NumberApp" />
-        <item itemvalue="Application.PersonApp" />
+        <item itemvalue="Application.FindFirstApp" />
+        <item itemvalue="Application.CountingMatchesApp" />
+        <item itemvalue="Application.SumAndAverageApp" />
+        <item itemvalue="Application.ContinueApp" />
+        <item itemvalue="Application.BreakApp" />
       </list>
     </recent_temporary>
   </component>
