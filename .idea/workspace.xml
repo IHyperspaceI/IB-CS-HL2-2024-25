@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f71097cd-1f22-479b-9a79-2b87929d5fd6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter6/BreakApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter6/ContinueApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter6/CountingMatchesApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter6/Do-While Loop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter6/FindFirstApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter6/SentinelApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter6/SumAndAverageApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter6/ValidationApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter6/While Loop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter6/bank/Investment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter6/bank/InvestmentApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f71097cd-1f22-479b-9a79-2b87929d5fd6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
