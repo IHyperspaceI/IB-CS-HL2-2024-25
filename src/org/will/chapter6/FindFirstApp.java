@@ -7,9 +7,11 @@ public class FindFirstApp {
         Scanner in = new Scanner(System.in);
         System.out.print("Enter a string: ");
         String input = in.nextLine();
+
         boolean found = false;
         char ch = 'a';
         int position = 0;
+
         while (!found && position < input.length()) {
             char current = input.charAt(position);
             if (current == ch) {

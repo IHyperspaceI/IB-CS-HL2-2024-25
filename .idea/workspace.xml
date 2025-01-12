@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f71097cd-1f22-479b-9a79-2b87929d5fd6" name="Changes" comment="" />
+    <list default="true" id="f71097cd-1f22-479b-9a79-2b87929d5fd6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter6/AdjacentApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter6/DiceGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter6/Die.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter6/MinMaxApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter6/PowersApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter6/PromptingMatchApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter7/ArrayUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter7/Arrays.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter7/FillApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter7/MethodApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter7/MinMaxApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter7/PartiallyFilledArrayApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter7/RemoveElementApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter7/ScoreApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter7/SearchApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter7/SeparatorApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter7/SumAndAverageApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/will/chapter6/FindFirstApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/will/chapter6/FindFirstApp.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,20 +61,28 @@
     "Application.ContinueApp.executor": "Run",
     "Application.CounterApp.executor": "Run",
     "Application.CountingMatchesApp.executor": "Run",
+    "Application.DiceGame.executor": "Run",
     "Application.ElevatorApp.executor": "Run",
     "Application.EmptyFrameViewer.executor": "Run",
     "Application.FaceViewer.executor": "Run",
+    "Application.FillApp.executor": "Run",
     "Application.FindFirstApp.executor": "Run",
     "Application.FloatingPointCompareApp.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.InputApp.executor": "Run",
     "Application.InvestmentApp.executor": "Run",
+    "Application.MethodApp.executor": "Debug",
+    "Application.MinMaxApp.executor": "Run",
     "Application.NumberApp.executor": "Run",
     "Application.ObjectEqualApp.executor": "Run",
     "Application.OperatorApp.executor": "Run",
+    "Application.PartiallyFilledArrayApp.executor": "Run",
     "Application.PersonApp.executor": "Run",
+    "Application.PowersApp.executor": "Run",
     "Application.RectangleViewer.executor": "Run",
+    "Application.SearchApp.executor": "Run",
     "Application.SentinelApp.executor": "Run",
+    "Application.SeparatorApp.executor": "Run",
     "Application.ShapeViewer.executor": "Run",
     "Application.StringApp.executor": "Run",
     "Application.SumAndAverageApp.executor": "Run",
@@ -86,13 +114,13 @@
       <recent name="org.will.chapter2.art" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindFirstApp">
-    <configuration name="BreakApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.will.chapter6.BreakApp" />
+  <component name="RunManager" selected="Application.SearchApp">
+    <configuration name="FillApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.will.chapter7.FillApp" />
       <module name="IB-CS-HL2-2024-25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.will.chapter6.*" />
+          <option name="PATTERN" value="org.will.chapter7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContinueApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.will.chapter6.ContinueApp" />
+    <configuration name="MinMaxApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.will.chapter7.MinMaxApp" />
       <module name="IB-CS-HL2-2024-25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.will.chapter6.*" />
+          <option name="PATTERN" value="org.will.chapter7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountingMatchesApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.will.chapter6.CountingMatchesApp" />
+    <configuration name="SearchApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.will.chapter7.SearchApp" />
       <module name="IB-CS-HL2-2024-25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.will.chapter6.*" />
+          <option name="PATTERN" value="org.will.chapter7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindFirstApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.will.chapter6.FindFirstApp" />
+    <configuration name="SeparatorApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.will.chapter7.SeparatorApp" />
       <module name="IB-CS-HL2-2024-25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.will.chapter6.*" />
+          <option name="PATTERN" value="org.will.chapter7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +168,11 @@
       </method>
     </configuration>
     <configuration name="SumAndAverageApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.will.chapter6.SumAndAverageApp" />
+      <option name="MAIN_CLASS_NAME" value="org.will.chapter7.SumAndAverageApp" />
       <module name="IB-CS-HL2-2024-25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.will.chapter6.*" />
+          <option name="PATTERN" value="org.will.chapter7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindFirstApp" />
-        <item itemvalue="Application.CountingMatchesApp" />
+        <item itemvalue="Application.SearchApp" />
+        <item itemvalue="Application.SeparatorApp" />
+        <item itemvalue="Application.MinMaxApp" />
         <item itemvalue="Application.SumAndAverageApp" />
-        <item itemvalue="Application.ContinueApp" />
-        <item itemvalue="Application.BreakApp" />
+        <item itemvalue="Application.FillApp" />
       </list>
     </recent_temporary>
   </component>
