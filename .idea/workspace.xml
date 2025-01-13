@@ -5,25 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f71097cd-1f22-479b-9a79-2b87929d5fd6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter6/AdjacentApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter6/DiceGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter6/Die.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter6/MinMaxApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter6/PowersApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter6/PromptingMatchApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter7/ArrayUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter7/Arrays.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter7/FillApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter7/MethodApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter7/MinMaxApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter7/PartiallyFilledArrayApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter7/RemoveElementApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter7/ScoreApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter7/SearchApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter7/SeparatorApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter7/SumAndAverageApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter7/CopyApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter7/InsertElementApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter7/SwapApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/will/chapter6/FindFirstApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/will/chapter6/FindFirstApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/will/chapter7/ArrayUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/will/chapter7/ArrayUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/will/chapter7/RemoveElementApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/will/chapter7/RemoveElementApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +46,7 @@
     "Application.CarViewer.executor": "Run",
     "Application.CashRegisterApp.executor": "Run",
     "Application.ContinueApp.executor": "Run",
+    "Application.CopyApp.executor": "Run",
     "Application.CounterApp.executor": "Run",
     "Application.CountingMatchesApp.executor": "Run",
     "Application.DiceGame.executor": "Run",
@@ -70,6 +58,7 @@
     "Application.FloatingPointCompareApp.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.InputApp.executor": "Run",
+    "Application.InsertElementApp.executor": "Run",
     "Application.InvestmentApp.executor": "Run",
     "Application.MethodApp.executor": "Debug",
     "Application.MinMaxApp.executor": "Run",
@@ -80,12 +69,14 @@
     "Application.PersonApp.executor": "Run",
     "Application.PowersApp.executor": "Run",
     "Application.RectangleViewer.executor": "Run",
+    "Application.RemoveElementApp.executor": "Run",
     "Application.SearchApp.executor": "Run",
     "Application.SentinelApp.executor": "Run",
     "Application.SeparatorApp.executor": "Run",
     "Application.ShapeViewer.executor": "Run",
     "Application.StringApp.executor": "Run",
     "Application.SumAndAverageApp.executor": "Run",
+    "Application.SwapApp.executor": "Run",
     "Application.TaxReturnApp.executor": "Run",
     "Application.Tree.executor": "Run",
     "Application.ValidationApp.executor": "Run",
@@ -114,9 +105,9 @@
       <recent name="org.will.chapter2.art" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SearchApp">
-    <configuration name="FillApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.will.chapter7.FillApp" />
+  <component name="RunManager" selected="Application.CopyApp">
+    <configuration name="CopyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.will.chapter7.CopyApp" />
       <module name="IB-CS-HL2-2024-25" />
       <extension name="coverage">
         <pattern>
@@ -128,8 +119,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinMaxApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.will.chapter7.MinMaxApp" />
+    <configuration name="InsertElementApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.will.chapter7.InsertElementApp" />
+      <module name="IB-CS-HL2-2024-25" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.will.chapter7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RemoveElementApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.will.chapter7.RemoveElementApp" />
       <module name="IB-CS-HL2-2024-25" />
       <extension name="coverage">
         <pattern>
@@ -154,21 +158,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeparatorApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.will.chapter7.SeparatorApp" />
-      <module name="IB-CS-HL2-2024-25" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.will.chapter7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumAndAverageApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.will.chapter7.SumAndAverageApp" />
+    <configuration name="SwapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.will.chapter7.SwapApp" />
       <module name="IB-CS-HL2-2024-25" />
       <extension name="coverage">
         <pattern>
@@ -182,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CopyApp" />
+        <item itemvalue="Application.SwapApp" />
+        <item itemvalue="Application.InsertElementApp" />
+        <item itemvalue="Application.RemoveElementApp" />
         <item itemvalue="Application.SearchApp" />
-        <item itemvalue="Application.SeparatorApp" />
-        <item itemvalue="Application.MinMaxApp" />
-        <item itemvalue="Application.SumAndAverageApp" />
-        <item itemvalue="Application.FillApp" />
       </list>
     </recent_temporary>
   </component>

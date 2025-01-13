@@ -2,13 +2,14 @@ package org.will.chapter7;
 
 import java.util.Scanner;
 
-public class RemoveElementApp {
+public class SwapApp {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int[] values = new int[5];
-        ArrayUtil.fillArray(values, in);
-        ArrayUtil.print(values, values.length);
-        int currentSize = ArrayUtil.removeElement(values, values.length, 2);
+        int currentSize = values.length;
+        ArrayUtil.fillArray(values, in, currentSize);
+        ArrayUtil.print(values, currentSize);
+        ArrayUtil.swap(values, 0, values.length - 1);
         ArrayUtil.print(values, currentSize);
     }
 }
