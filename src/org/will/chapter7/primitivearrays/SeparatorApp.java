@@ -1,4 +1,4 @@
-package org.will.chapter7;
+package org.will.chapter7.primitivearrays;
 
 import java.util.Arrays;
 import java.util.Scanner;

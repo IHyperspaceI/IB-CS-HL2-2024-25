@@ -1,4 +1,4 @@
-package org.will.chapter7;
+package org.will.chapter7.primitivearrays;
 
 public class ScoreApp {
     public static void main(String[] args) {
