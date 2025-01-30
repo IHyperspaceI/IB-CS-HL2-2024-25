@@ -5,24 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f71097cd-1f22-479b-9a79-2b87929d5fd6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter7/ArrayListCopyApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter7/FriendApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter7/MedalsApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter7/ArrayListRemove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter7/WrapperApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter9/ChoiceQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter9/Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter9/QuizApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/will/chapter7/ArrayUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/will/chapter7/primitivearrays/ArrayUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/will/chapter7/CopyApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/will/chapter7/primitivearrays/CopyApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/will/chapter7/FillApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/will/chapter7/primitivearrays/FillApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/will/chapter7/InsertElementApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/will/chapter7/primitivearrays/InsertElementApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/will/chapter7/MethodApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/will/chapter7/primitivearrays/MethodApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/will/chapter7/MinMaxApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/will/chapter7/primitivearrays/MinMaxApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/will/chapter7/PartiallyFilledArrayApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/will/chapter7/primitivearrays/PartiallyFilledArrayApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/will/chapter7/RemoveElementApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/will/chapter7/primitivearrays/RemoveElementApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/will/chapter7/ScoreApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/will/chapter7/primitivearrays/ScoreApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/will/chapter7/SearchApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/will/chapter7/primitivearrays/SearchApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/will/chapter7/SeparatorApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/will/chapter7/primitivearrays/SeparatorApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/will/chapter7/SumAndAverageApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/will/chapter7/primitivearrays/SumAndAverageApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/will/chapter7/SwapApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/will/chapter7/primitivearrays/SwapApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +42,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ArrayListCopyApp.executor": "Run",
+    "Application.ArrayListRemove.executor": "Run",
     "Application.BankAccountApp.executor": "Run",
     "Application.BreakApp.executor": "Run",
     "Application.CarViewer.executor": "Run",
@@ -83,6 +72,7 @@
     "Application.PartiallyFilledArrayApp.executor": "Run",
     "Application.PersonApp.executor": "Run",
     "Application.PowersApp.executor": "Run",
+    "Application.QuizApp.executor": "Run",
     "Application.RectangleViewer.executor": "Run",
     "Application.RemoveElementApp.executor": "Run",
     "Application.SearchApp.executor": "Run",
@@ -121,7 +111,7 @@
       <recent name="org.will.chapter2.art" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayListCopyApp">
+  <component name="RunManager" selected="Application.QuizApp">
     <configuration name="ArrayListCopyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.will.chapter7.ArrayListCopyApp" />
       <module name="IB-CS-HL2-2024-25" />
@@ -135,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CopyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.will.chapter7.primitivearrays.CopyApp" />
+    <configuration name="ArrayListRemove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.will.chapter7.ArrayListRemove" />
       <module name="IB-CS-HL2-2024-25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.will.chapter7.primitivearrays.*" />
+          <option name="PATTERN" value="org.will.chapter7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,12 +164,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwapApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.will.chapter7.primitivearrays.SwapApp" />
+    <configuration name="QuizApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.will.chapter9.QuizApp" />
       <module name="IB-CS-HL2-2024-25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.will.chapter7.primitivearrays.*" />
+          <option name="PATTERN" value="org.will.chapter9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuizApp" />
+        <item itemvalue="Application.ArrayListRemove" />
         <item itemvalue="Application.ArrayListCopyApp" />
         <item itemvalue="Application.FriendApp" />
         <item itemvalue="Application.MedalsApp" />
-        <item itemvalue="Application.CopyApp" />
-        <item itemvalue="Application.SwapApp" />
       </list>
     </recent_temporary>
   </component>
