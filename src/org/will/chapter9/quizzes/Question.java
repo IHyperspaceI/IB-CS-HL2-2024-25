@@ -1,9 +1,13 @@
-package org.will.chapter9;
+package org.will.chapter9.quizzes;
 
 public class Question {
     private String prompt;
     private String answer;
-    private int pointValue;
+    protected int pointValue;
+
+    public Question(String prompt) {
+        this.prompt = prompt;
+    }
 
     public Question() {
         this.prompt = "";

@@ -1,15 +1,17 @@
-package org.will.chapter9;
+package org.will.chapter9.quizzes;
 
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class QuizApp {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
-        Question question = new Question();
-        question.setPrompt("What is the answer to life, the universe, and everything?");
-        question.setAnswer("42");
-        question.setPointValue(42);
+
+        Question question1 = new Question();
+        question1.setPrompt("What is the answer to life, the universe, and everything?");
+        question1.setAnswer("42");
+        question1.setPointValue(42);
 
         ChoiceQuestion choiceQuestion = new ChoiceQuestion();
         choiceQuestion.setPrompt("What is the best day of the week?");
@@ -22,8 +24,14 @@ public class QuizApp {
         choiceQuestion.addChoice("Saturday", true);
         choiceQuestion.setPointValue(8);
 
-        presentQuestion(question, in);
-        presentQuestion(choiceQuestion, in);
+
+        ArrayList<Question> questions = new ArrayList<>();
+        questions.add(question1);
+        questions.add(choiceQuestion);
+
+        for (Question question : questions) {
+            presentQuestion(question, in);
+        }
     }
 
     public static void presentQuestion(Question question, Scanner in) {

@@ -1,9 +1,14 @@
-package org.will.chapter9;
+package org.will.chapter9.quizzes;
 
 import java.util.ArrayList;
 
 public class ChoiceQuestion extends Question {
     private ArrayList<String> choices;
+
+    public ChoiceQuestion(String prompt) {
+        super(prompt);
+        choices = new ArrayList<>();
+    }
 
     public ChoiceQuestion() {
         choices = new ArrayList<>();
