@@ -5,28 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f71097cd-1f22-479b-9a79-2b87929d5fd6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter10/AnonymousApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter10/AreaMeasurer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter10/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter10/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter10/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter10/Measurable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter10/Measure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter10/MeasureApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter10/MeasureTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter10/MeasureTester2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter10/guilisteners/ButtonViewer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter10/guilisteners/ClickListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter10/guilisteners/InvestmentApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter10/guilisteners/LambdaClickViewer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter9/bankaccountsagain/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter9/bankaccountsagain/BankAccountApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter9/bankaccountsagain/SavingsAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/will/chapter9/bankaccountsagain/SecureBankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter10/events/RectangleComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter10/events/RectangleMouseApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/will/chapter10/events/RectangleMoverApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/will/chapter9/ChoiceQuestion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/will/chapter9/quizzes/ChoiceQuestion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/will/chapter9/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/will/chapter9/quizzes/Question.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/will/chapter9/QuizApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/will/chapter9/quizzes/QuizApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +75,8 @@
     "Application.PersonApp.executor": "Run",
     "Application.PowersApp.executor": "Run",
     "Application.QuizApp.executor": "Run",
+    "Application.RectangleMouseApp.executor": "Run",
+    "Application.RectangleMoverApp.executor": "Run",
     "Application.RectangleViewer.executor": "Run",
     "Application.RemoveElementApp.executor": "Run",
     "Application.SearchApp.executor": "Run",
@@ -131,20 +115,7 @@
       <recent name="org.will.chapter2.art" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InvestmentApp">
-    <configuration name="BankAccountApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.will.chapter9.bankaccountsagain.BankAccountApp" />
-      <module name="IB-CS-HL2-2024-25" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.will.chapter9.bankaccountsagain.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RectangleMouseApp">
     <configuration name="ButtonViewer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.will.chapter10.guilisteners.ButtonViewer" />
       <module name="IB-CS-HL2-2024-25" />
@@ -171,19 +142,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MeasureApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.will.chapter10.MeasureApp" />
-      <module name="IB-CS-HL2-2024-25" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.will.chapter10.guilisteners.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MeasureTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.will.chapter10.MeasureTester" />
       <module name="IB-CS-HL2-2024-25" />
@@ -197,13 +155,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RectangleMouseApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.will.chapter10.events.RectangleMouseApp" />
+      <module name="IB-CS-HL2-2024-25" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.will.chapter10.events.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RectangleMoverApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.will.chapter10.events.RectangleMoverApp" />
+      <module name="IB-CS-HL2-2024-25" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.will.chapter10.events.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RectangleMouseApp" />
+        <item itemvalue="Application.RectangleMoverApp" />
         <item itemvalue="Application.InvestmentApp" />
         <item itemvalue="Application.ButtonViewer" />
         <item itemvalue="Application.MeasureTester" />
-        <item itemvalue="Application.MeasureApp" />
-        <item itemvalue="Application.BankAccountApp" />
       </list>
     </recent_temporary>
   </component>
